@@ -28,6 +28,7 @@ CCN = "countries/ChangelingHarmony.txt"
 LSP = "countries/LosPegasus.txt"
 MAN = "countries/Manehattan.txt" ## Equestrian East Coast
 ELF = "countries/EquestriaLiberationFront.txt"
+EOZ = "countries/EquestrianOccupationZone.txt"
 
 ############################ Griffon Continent ####
 GRI = "countries/GriffonEmpire.txt"

@@ -4,8 +4,8 @@ state={
 	state_category = rural
 
 	history={
-		owner = CHN
-		add_core_of = CHN
+		owner = EOZ
+		add_core_of = EOZ
 		buildings = {
 			infrastructure = 1
 		}
@@ -18,6 +18,6 @@ state={
 	provinces={
 		765 775 3765 4903 4992 5035 6741 6781 9677 9709 9742 9744 11729
 	}
-	manpower=244200
+	manpower=284200
 	buildings_max_level_factor=1.000
 }

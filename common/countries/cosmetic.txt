@@ -42,3 +42,8 @@ BAR_1048 = {
 	color = rgb { 58 190 95 }
 	color_ui = rgb { 58 190 95 }
 }
+
+OLE_CHN = {
+	color = rgb { 60 64 86 }
+	color_ui = rgb { 60 64 86 }
+}

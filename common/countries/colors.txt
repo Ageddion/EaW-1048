@@ -627,3 +627,8 @@ BLS = {
 	color = rgb { 126 146 163 }
 	color_ui = rgb { 126 146 163 }
 }
+
+EOZ = {
+	color = rgb { 60 64 86 }
+	color_ui = rgb { 60 64 86 }
+}

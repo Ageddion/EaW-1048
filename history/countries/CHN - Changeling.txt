@@ -92,6 +92,7 @@ if = {
 		armored_car1 = 1
 	}
 }
+set_cosmetic_tag = CHN_initial_tag
 
 
 set_convoys = 150
@@ -110,8 +111,18 @@ if = {
 		target = SCS
 		autonomy_state = autonomy_reichsprotectorate
 	}
+	set_autonomy = {
+		target = EOZ
+		autonomy_state = autonomy_reichsprotectorate
+	}
+	set_autonomy = {
+		target = OLE
+		autonomy_state = autonomy_reichsprotectorate
+	}
 	else = {
 		puppet = SCS
+		puppet = EOZ
+		puppet = OLE
 	}
 }
 

@@ -7,8 +7,8 @@ state={
 		chromium = 5
 	}
 	history={
-		owner = CHN
-		add_core_of = CHN
+		owner = EOZ
+		add_core_of = EOZ
 		buildings = {
 			infrastructure = 2
 		}
@@ -17,6 +17,6 @@ state={
 	provinces={
 		511 2049 6578 6945 7065 8077 9209 9308 9680 9976 10041 11215 11397 11917 12001
 	}
-	manpower=389447
+	manpower=439447
 	buildings_max_level_factor=1.000
 }
